@@ -1,0 +1,30 @@
+_repo: Crome-Yellow_1999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huxley, Aldous
+    alias: Huxley, Aldous Leonard
+    birthdate: 1894
+    deathdate: 1963
+    gutenberg_agent_id: '780'
+    url: http://www.gutenberg.org/2009/agents/780
+    wikipedia: http://en.wikipedia.org/wiki/Aldous_Huxley
+description: ''
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Country homes -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcsh 'Intellectuals -- Fiction'
+- GITenberg
+title: Crome Yellow
+url: http://www.gutenberg.org/ebooks/1999
